@@ -1,0 +1,25 @@
+/* * {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: '';
+    text-decoration: none;
+}
+
+* {
+    margin: 0 auto;
+    padding: 0%;
+    text-emphasis: none;
+    list-style: ;
+} */
+
+p {
+    font-size: 2em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-shadow: 2px 2px 4px #666;
+    width: 400px;
+    height: 300px;
+    line-height: 150px;
+    border: 1px solid;
+    text-align: center;
